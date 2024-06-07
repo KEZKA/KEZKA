@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is [Sophia], and I am a passionate developer with experience in web development, Data Science, and pentesting.
+My name is Sophia, and I am a passionate developer with experience in web development, Data Science, and pentesting.
 
 ### 🚀 About Me
 
@@ -8,7 +8,7 @@ My name is [Sophia], and I am a passionate developer with experience in web deve
 - 🌱 Currently studying Data Science and pentesting.
 - 🌐 Experienced with various web frameworks and libraries.
 - 🎓 Working as a IT-teacher, creating educational materials for lessons.
-- 📫 How to reach me: [sophia.chemer@gmail.com]
+- 📫 How to reach me: sophia.chemer@gmail.com
 
 ### 🛠️ Skills and Technologies
 
