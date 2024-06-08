@@ -17,13 +17,12 @@ My name is Sophia, and I am a passionate developer with experience in web develo
 - **Data Science:** Pandas, NumPy, Matplotlib
 - **Pentesting:** Basics of cybersecurity, using tools for penetration testing
 - **Tools and Platforms:** Git, GitHub, Pycharm, VS Code, Jupyter Notebook
-<!--
+
 ### 📚 Projects
 
-- **[Project Name 1](link to project):** Web application developed using Flask and React for [brief description].
-- **[Project Name 2](link to project):** Data analysis using Pandas and Matplotlib for [brief description].
-- **[Project Name 3](link to project):** Pentesting project including [brief description].
+- **[HH-DATASET](https://github.com/KEZKA/hh-data-set):** Data analysis using Pandas and Plotly .
 
+<!--
 ### 🌟 Hobbies and Interests
 
 - 📖 Reading books
